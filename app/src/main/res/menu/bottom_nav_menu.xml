@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_doctors"
+        android:icon="@drawable/ic_vector_doctors"
+        android:title="@string/title_doctors" />
+
+    <item
+        android:id="@+id/navigation_appointments"
+        android:icon="@drawable/ic_vector_appointments"
+        android:title="@string/title_appointments" />
+
+</menu>

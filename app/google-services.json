@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728387412171",
+    "project_id": "dentistbookingapp-56df3",
+    "storage_bucket": "dentistbookingapp-56df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728387412171:android:3a67787c587a12ff9a7b4e",
+        "android_client_info": {
+          "package_name": "com.school_project.dentistbookingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728387412171-n1pp834lkajkklc0md4bb41vl5tbjip3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.school_project.dentistbookingapplication",
+            "certificate_hash": "8ca482f1a527659019ee521e999cc81abb602e2f"
+          }
+        },
+        {
+          "client_id": "728387412171-2hplplbedjp0cvngcq4h2t3pb2sva0c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRSPzKZjFyZEpl2JSMRLo3DtrJvv27As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728387412171-2hplplbedjp0cvngcq4h2t3pb2sva0c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

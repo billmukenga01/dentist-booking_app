@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_doctors"
+    tools:ignore="InvalidNavigation">
+
+
+    <fragment
+        android:id="@+id/navigation_doctors"
+        android:name="com.school_project.dentistbookingapplication.ui.fragments.DoctorsFragment"
+        android:label="@string/title_doctors"
+        tools:layout="@layout/fragment_doctors" />
+
+    <fragment
+        android:id="@+id/navigation_appointments"
+        android:name="com.school_project.dentistbookingapplication.ui.fragments.AppointmentsFragment"
+        android:label="@string/title_appointments"
+        tools:layout="@layout/fragment_appointments" />
+</navigation>
